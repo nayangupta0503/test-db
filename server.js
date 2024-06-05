@@ -1,5 +1,4 @@
 const express = require('./node_modules/express');
-const mongoose = require('./node_modules/mongoose')
 const bodyParser= require('body-parser')
 const path=require('path')
 
